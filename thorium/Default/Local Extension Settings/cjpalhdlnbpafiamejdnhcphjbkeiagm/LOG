@@ -1,0 +1,8 @@
+2024/02/25-12:59:15.882 12f6a Creating DB /home/kmaitreys/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2024/02/25-12:59:15.886 12f6a Reusing MANIFEST /home/kmaitreys/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/02/25-12:59:17.592 12f6b Level-0 table #5: started
+2024/02/25-12:59:17.626 12f6b Level-0 table #5: 1524634 bytes OK
+2024/02/25-12:59:17.628 12f6b Delete type=0 #3
+2024/02/25-12:59:18.323 12f6b Level-0 table #7: started
+2024/02/25-12:59:18.359 12f6b Level-0 table #7: 1648785 bytes OK
+2024/02/25-12:59:18.361 12f6b Delete type=0 #4
